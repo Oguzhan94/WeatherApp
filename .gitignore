@@ -1,0 +1,58 @@
+*.iml
+.gradle
+/local.properties
+/gradle.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle files
+.gradle/
+build/
+app/build/
+app/release/
+app/intermediates/
+*.apk
+*.ap_
+*.dex
+
+# Android Studio files
+.idea/
+*.hprof
+*.log
+
+# Android generated files
+captures/
+output.json
+*.jks
+*.keystore
+
+# External libraries and generated files
+external/
+*.jar
+*.war
+
+# Files for the ART and AOT
+*.o
+*.so
+
+# Miscellaneous
+*.DS_Store
+*.class
+*.lock
+*.swp
+
+# Kotlin specific files
+*.kotlin_module
+
+# Firebase files
+google-services.json
